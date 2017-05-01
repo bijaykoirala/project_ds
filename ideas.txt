@@ -1,0 +1,39 @@
+Week 1:———
+1. Informal proposal submission and approval
+2. Global Terrorism Dataset pulled.
+3. Solved an issue with file read by using a 3rd party library tool call xlrd to retrieve it in a nice csv, increased the file size by more than double but that is of least concern to us right now.
+4. Scanning the dataset which has more than 130 columns and 140,000 rows to find and understand the ones relevant to our project
+5. Finding out regions, countries, states, cities with the highest terrorist count
+6. Evaluation of a few factors relating to terrorism
+
+
+Week 2:——
+1. What is the trend of terrorism right now? -> Answered
+2. Tried to look for a relation between months and terrorism activities, did not find anything significant to pursue further.
+3. Looked for trend of terrorism throughout different regions.
+4. Found out the trend of terrorism on top 5 effected countries since 2000
+5. Made a heat map of terrorist activities in the US
+6. Plotted the terrorist hotspots in world map based off of intensities
+
+
+Week 3:———
+1. Found out trends of multiple attacks are increasing at an huge rate in the past few years, made a plot to demonstrate that
+2. Found out the locations where multiple attacks were common, plotted them in a world map
+3. Studied if terrorist attacks have been successfully prevented more these days  or not - plotted them in a map
+4. Plotted the terrorist attack zones by prevention rates (high and low) in world map.
+5. Found and printed Targets of attack throughout different regions
+6. Looked for trends in Suicide attacks and identified deaths associated with different countries throughout
+7. Created a plot containing four major trends to put in slides and report
+8. Obtained health dataset from World Bank, created a function to read any series name as necessary, tried to look for the relationship between terrorism and life expectancy, could not find anything reliable
+9. Plotted Life expectancy of top terrorist attacked nations,plotted death rates and birthrates without any significant relation. It sometimes looked as though there was relation but in the end there was no concrete ground to come to any conclusions. Lacked data to pursue analysis on Injury analysis.
+10. Concluded that even though terrorism attacks are problems, a decline in a few hundred or even thousand people will not affect the birth and death rates of countries with millions of people. While the indirect effects might be visible, our indicators did not quite show a trend there.
+
+
+Week 4:—————
+1. Attempt to analyze factors of economic growths: GNI, Exports, Imports, Inflation, Exchange Rates, Arrival Numbers, Departure Numbers. Most of the cases: too few data or data not enough to show any significant relation.
+2. Analyzed the property damage caused by terrorist activities throughout the years.
+3. Went searching for another dataset with GDP information, went to World Bank dataset again and downloaded it. Cleared, Filtered and experimented with a few countries. Quickly found out that many countries do not have GDP data prior to 2000, decided to use data only after 2000 for comparison.
+4. Used Spearman’s Rank coefficient and gave a rank to countries with decreasing terrorism rates and GDP improvements since 2000s. Plotting the top 50 of each indexes showed a trend - Whenever we look for countries with higher GDP, we observe fewer terrorism attacks in the country.
+5. changed color, aesthetics keeping simplicity to read in mind.
+6. Prepared summarizing figures for the report
+7. Prepared the report and slides and made the submission files.

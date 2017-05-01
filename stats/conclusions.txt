@@ -1,0 +1,33 @@
+Questions we are interested to answer:
+
+1. Is terrorism declining or increasing in todays world? Lets see it in action.
+
+2. What are the most terrorist active regions / countries / cities?
+
+3. Effect of terrorist activities in different state
+
+4. plot of terrorist activities throughout the world
+
+5. How often are recurring attacks in diff parts of world?
+
+6. Have we been able to prevent attacks?
+
+7. Where do terrorist attacks target in different regions?
+
+8. Where are suicide attacks most common?
+
+9. Which group is more dominant where?
+  countries!!!
+
+10. What are the weapons that are used the most?
+Automatic Weapons, Projectiles, Handguns, Vehicles, Other Explosives, Grende, Arson, Land Mine, in respective order
+
+11. Most common attack types?
+
+11. Simple text analysis? - using the summary field
+
+Data filtering
+data was on a different format, had to convert to csv
+many fields had incorrect data
+eg. 
+

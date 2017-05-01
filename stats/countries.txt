@@ -1,0 +1,208 @@
+COUNTRIES			Number of terrorist activities
+————————————————————————————————————————————————————————————————————
+Iraq                                     16023
+Pakistan                                 11522
+India                                    9069
+Colombia                                 7942
+Afghanistan                              7765
+Peru                                     6075
+El Salvador                              5320
+United Kingdom                           4881
+Philippines                              4860
+Spain                                    3242
+Turkey                                   3144
+Thailand                                 3074
+Sri Lanka                                2969
+Algeria                                  2704
+United States                            2646
+France                                   2580
+Somalia                                  2482
+Lebanon                                  2374
+Chile                                    2336
+Nigeria                                  2251
+Russia                                   2081
+Guatemala                                2050
+Israel                                   2016
+Nicaragua                                1970
+South Africa                             1969
+Yemen                                    1929
+West Bank and Gaza Strip                 1751
+Italy                                    1540
+Egypt                                    1218
+Greece                                   1169
+Libya                                    1098
+Bangladesh                               1049
+Syria                                    980
+Ukraine                                  944
+Nepal                                    876
+Argentina                                803
+Indonesia                                686
+Iran                                     658
+Germany                                  598
+West Germany (FRG)                       541
+Sudan                                    530
+Angola                                   492
+Mexico                                   480
+Kenya                                    446
+Burundi                                  407
+Japan                                    390
+Uganda                                   353
+Honduras                                 321
+Democratic Republic of the Congo         317
+Myanmar                                  315
+Bolivia                                  314
+Venezuela                                266
+Mozambique                               265
+Brazil                                   262
+Cambodia                                 258
+Ireland                                  245
+China                                    225
+Ecuador                                  214
+Haiti                                    212
+Georgia                                  211
+Yugoslavia                               205
+Mali                                     199
+Tajikistan                               181
+Kosovo                                   178
+Bahrain                                  163
+Rwanda                                   157
+Central African Republic                 153
+Bosnia-Herzegovina                       153
+Namibia                                  144
+Ethiopia                                 143
+Belgium                                  142
+Portugal                                 139
+Cyprus                                   127
+Panama                                   126
+Netherlands                              122
+Senegal                                  116
+Macedonia                                113
+Austria                                  107
+Switzerland                              107
+Zimbabwe                                 99
+Cameroon                                 98
+Sierra Leone                             97
+Saudi Arabia                             90
+Jordan                                   89
+Dominican Republic                       88
+Rhodesia                                 83
+Papua New Guinea                         81
+Australia                                80
+Soviet Union                             78
+Niger                                    75
+Uruguay                                  75
+Tunisia                                  75
+Albania                                  73
+Kuwait                                   73
+Malaysia                                 71
+Canada                                   69
+Sweden                                   67
+Costa Rica                               67
+Paraguay                                 67
+Suriname                                 66
+Zambia                                   60
+South Sudan                              57
+Ivory Coast                              56
+Guadeloupe                               56
+Croatia                                  55
+Chad                                     53
+Bulgaria                                 49
+Togo                                     48
+Zaire                                    48
+Taiwan                                   47
+Azerbaijan                               45
+Hungary                                  44
+East Germany (GDR)                       38
+Tanzania                                 36
+South Korea                              36
+Denmark                                  36
+Morocco                                  35
+Jamaica                                  34
+Poland                                   34
+Liberia                                  33
+Macau                                    33
+New Caledonia                            31
+Cuba                                     30
+Madagascar                               26
+Hong Kong                                26
+Kyrgyzstan                               26
+Lesotho                                  25
+Guyana                                   25
+Kazakhstan                               24
+Czech Republic                           23
+Guinea                                   22
+United Arab Emirates                     22
+Trinidad and Tobago                      21
+Laos                                     20
+Republic of the Congo                    20
+Armenia                                  20
+Moldova                                  20
+Uzbekistan                               20
+Djibouti                                 20
+New Zealand                              19
+Malta                                    19
+Ghana                                    18
+Norway                                   18
+Mauritania                               18
+Fiji                                     17
+Slovak Republic                          17
+Luxembourg                               16
+Latvia                                   16
+Swaziland                                15
+Maldives                                 15
+Estonia                                  14
+Belarus                                  13
+Martinique                               12
+Serbia-Montenegro                        11
+Serbia                                   11
+East Timor                               10
+Eritrea                                  10
+Vietnam                                  10
+Czechoslovakia                           10
+Guinea-Bissau                            9
+Lithuania                                8
+Belize                                   8
+Benin                                    8
+Botswana                                 8
+Singapore                                7
+French Guiana                            7
+Slovenia                                 6
+North Yemen                              6
+Finland                                  6
+Romania                                  6
+Qatar                                    6
+Bhutan                                   6
+Grenada                                  5
+Bahamas                                  5
+Western Sahara                           5
+Comoros                                  5
+Burkina Faso                             4
+Gabon                                    4
+Solomon Islands                          4
+Malawi                                   4
+Montenegro                               4
+Iceland                                  4
+French Polynesia                         3
+Gambia                                   3
+Dominica                                 3
+Barbados                                 3
+People's Republic of the Congo           3
+Turkmenistan                             2
+Seychelles                               2
+Mauritius                                2
+St. Kitts and Nevis                      2
+South Yemen                              2
+Equatorial Guinea                        2
+Antigua and Barbuda                      2
+Vanuatu                                  2
+South Vietnam                            1
+St. Lucia                                1
+Wallis and Futuna                        1
+Vatican City                             1
+Falkland Islands                         1
+Andorra                                  1
+Gibraltar                                1
+Brunei                                   1
+Cayman Islands                           1
+New Hebrides                             1
+North Korea                              1
